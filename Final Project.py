@@ -1,3 +1,4 @@
+#Annual Sales Report for a Company
 #Program to calculate the total from all the quarters and then to display in a table form
 #Author:Rebecca Abraham
 #variables are id_list,sales_data,infile,line,ids,value,qtr,amount,location,max_id,max_value,qtr1,qtr2,qtr3,qtr4
